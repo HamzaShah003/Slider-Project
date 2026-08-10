@@ -1,5 +1,9 @@
 # Slider Project
 
+## Project Preview
+
+![Slider Preview](screenshots/slider-preview.png)
+
 A simple JavaScript image slider built with HTML, CSS, and vanilla JavaScript.
 
 ## What it does
